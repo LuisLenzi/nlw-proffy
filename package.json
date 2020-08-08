@@ -1,0 +1,20 @@
+{
+  "name": "nlw",
+  "version": "1.0.0",
+  "description": "Proffy - Plataforma digital [NextLevelWeek]",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LuisLenzi/nwl.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LuisLenzi/nwl/issues"
+  },
+  "homepage": "https://github.com/LuisLenzi/nwl#readme"
+}
